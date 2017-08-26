@@ -2,8 +2,6 @@
 
 > Python implementation of Conway's Game of Life 🕹️
 
-![Game of Life](https://cldup.com/8Ond27Md0i.png)
-
 Conway's Game of Life is all about simulating real life rules on some random arrangement of cells in a given environment. The rules are as follows.
 
 - Any live cell with fewer than two live neighbours dies, as if caused by underpopulation
